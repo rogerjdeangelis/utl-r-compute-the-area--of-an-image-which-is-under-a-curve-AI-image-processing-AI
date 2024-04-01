@@ -13,6 +13,11 @@
     https://goo.gl/Btm1In
     http://stackoverflow.com/questions/42640558/calculating-area-between-two-plots-in-r
 
+    github                                                                                                              
+    https://tinyurl.com/ms3t9fk5                                                                                        
+    https://github.com/rogerjdeangelis/utl-r-compute-the-area--of-an-image-which-is-under-a-curve-AI-image-processing-AI
+
+
     /*               _     _
      _ __  _ __ ___ | |__ | | ___ _ __ ___
     | `_ \| `__/ _ \| `_ \| |/ _ \ `_ ` _ \
